@@ -1,6 +1,6 @@
 {
     "short_name": "My Cv",
-    "name": "Mon CV",
+    "name": "Rouissam Abdelmajid CV----Angular 5",
     "icons": [
       {
         "src": "mycv.png",
@@ -9,8 +9,8 @@
       }
     ],
     "orientation":"any",
-    "scope":"/",
-    "start_url": "/",
+    "scope":"https://Rouabd.github.io/CV/",
+    "start_url": "https://Rouabd.github.io/CV/",
     "display": "standalone",
     "theme_color": "#000000",
     "background_color": "#ffffff"

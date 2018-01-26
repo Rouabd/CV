@@ -9,9 +9,9 @@
       "urls": [
         "https://Rouabd.github.io/CV/index.html",
         "https://Rouabd.github.io/CV/0.ab728350f76b72051c4e.chunk.js",
-        "https://Rouabd.github.io/CV/inline.c0ab0eeff31e66184894.bundle.js",
+        "https://Rouabd.github.io/CV/inline.91b1681fc72132210cab.bundle.js",
         "https://Rouabd.github.io/CV/main.023a5f5e4ca120fb673e.bundle.css",
-        "https://Rouabd.github.io/CV/main.846fc0f48637d7dcbe6b.bundle.js",
+        "https://Rouabd.github.io/CV/main.05c0631e3c65b9c3d4ff.bundle.js",
         "https://Rouabd.github.io/CV/polyfills.7ae390d4b3b21040596e.bundle.js",
         "https://Rouabd.github.io/CV/scripts.346cedf26b53bf84a37e.bundle.js",
         "https://Rouabd.github.io/CV/styles.12dc91a592346253b608.bundle.css"
@@ -33,13 +33,13 @@
   "hashTable": {
     "https://Rouabd.github.io/CV/0.ab728350f76b72051c4e.chunk.js": "0dc8f465bdb07067985db525e882abf8bddbccbc",
     "https://Rouabd.github.io/CV/assets/majid-min-min.jpg": "46101384b4d2f3e51726a5683f65574e57e0c27a",
-    "https://Rouabd.github.io/CV/inline.c0ab0eeff31e66184894.bundle.js": "8af3e7e661704b9efcea9b82f7ad4f32a8acb7ea",
+    "https://Rouabd.github.io/CV/inline.91b1681fc72132210cab.bundle.js": "825d8d698f86caebad997e0dc7bbbcd70a429084",
     "https://Rouabd.github.io/CV/assets/majid.jpg": "5ddd55bf4795bc39529a7545de22077b9d650e42",
     "https://Rouabd.github.io/CV/main.023a5f5e4ca120fb673e.bundle.css": "6e22c3b0b0fb968ac6fb73eddaf1534e24a11365",
-    "https://Rouabd.github.io/CV/main.846fc0f48637d7dcbe6b.bundle.js": "4ef88ce0430a4e0dc39f80dc8da10af1145ea41c",
+    "https://Rouabd.github.io/CV/main.05c0631e3c65b9c3d4ff.bundle.js": "77b3498779ccf9ef1f5769a82c5baa769437d871",
     "https://Rouabd.github.io/CV/polyfills.7ae390d4b3b21040596e.bundle.js": "9c258fae89619a1f107ae351a28a5aa651fe4fea",
     "https://Rouabd.github.io/CV/scripts.346cedf26b53bf84a37e.bundle.js": "0cc6556acf751bea61733dd58e0b3df774bb5f0c",
     "https://Rouabd.github.io/CV/styles.12dc91a592346253b608.bundle.css": "2d4bfbcee1b53f6d008a58334c7940faea0e9cb8",
-    "https://Rouabd.github.io/CV/index.html": "66921f484cc3de41448fc00d6ae71ed2851ff56b"
+    "https://Rouabd.github.io/CV/index.html": "c86025570690d7fb0f4d98f478a396c433343e4f"
   }
 }

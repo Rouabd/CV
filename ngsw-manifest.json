@@ -4,9 +4,6 @@
         "routes": {
             "/": {
                 "match": "exact"
-            },
-            "/profile": {
-                "match": "prefix"
             }
         }
     },

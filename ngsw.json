@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "index": "https://Rouabd.github.io/CV/index.html",
+  "index": "https://Rouabd.github.io/CV/https://Rouabd.github.io/CV/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -9,9 +9,9 @@
       "urls": [
         "https://Rouabd.github.io/CV/index.html",
         "https://Rouabd.github.io/CV/0.ab728350f76b72051c4e.chunk.js",
-        "https://Rouabd.github.io/CV/inline.91b1681fc72132210cab.bundle.js",
+        "https://Rouabd.github.io/CV/inline.8f933c346409cadf4d9f.bundle.js",
         "https://Rouabd.github.io/CV/main.023a5f5e4ca120fb673e.bundle.css",
-        "https://Rouabd.github.io/CV/main.05c0631e3c65b9c3d4ff.bundle.js",
+        "https://Rouabd.github.io/CV/main.91adb7c2b31c7368539a.bundle.js",
         "https://Rouabd.github.io/CV/polyfills.7ae390d4b3b21040596e.bundle.js",
         "https://Rouabd.github.io/CV/scripts.346cedf26b53bf84a37e.bundle.js",
         "https://Rouabd.github.io/CV/styles.12dc91a592346253b608.bundle.css"
@@ -35,12 +35,7 @@
     {
       "name": "from-api",
       "patterns": [
-        "\\/profile",
-        "\\/autres",
-        "\\/experiences",
-        "\\/portfolio",
-        "\\/certifications",
-        "\\/formations"
+        "\\/CV\\/"
       ],
       "strategy": "freshness",
       "maxSize": 15,
@@ -52,13 +47,13 @@
   "hashTable": {
     "https://Rouabd.github.io/CV/0.ab728350f76b72051c4e.chunk.js": "0dc8f465bdb07067985db525e882abf8bddbccbc",
     "https://Rouabd.github.io/CV/assets/majid-min-min.jpg": "46101384b4d2f3e51726a5683f65574e57e0c27a",
-    "https://Rouabd.github.io/CV/inline.91b1681fc72132210cab.bundle.js": "825d8d698f86caebad997e0dc7bbbcd70a429084",
+    "https://Rouabd.github.io/CV/inline.8f933c346409cadf4d9f.bundle.js": "4af1978bafa2c35e7d7b76797824cc73af6cd4d4",
     "https://Rouabd.github.io/CV/assets/majid.jpg": "5ddd55bf4795bc39529a7545de22077b9d650e42",
     "https://Rouabd.github.io/CV/main.023a5f5e4ca120fb673e.bundle.css": "6e22c3b0b0fb968ac6fb73eddaf1534e24a11365",
-    "https://Rouabd.github.io/CV/main.05c0631e3c65b9c3d4ff.bundle.js": "77b3498779ccf9ef1f5769a82c5baa769437d871",
+    "https://Rouabd.github.io/CV/main.91adb7c2b31c7368539a.bundle.js": "0be569f23467e3e4cf99cf85b41ff509bfd413f3",
     "https://Rouabd.github.io/CV/polyfills.7ae390d4b3b21040596e.bundle.js": "9c258fae89619a1f107ae351a28a5aa651fe4fea",
     "https://Rouabd.github.io/CV/scripts.346cedf26b53bf84a37e.bundle.js": "0cc6556acf751bea61733dd58e0b3df774bb5f0c",
     "https://Rouabd.github.io/CV/styles.12dc91a592346253b608.bundle.css": "2d4bfbcee1b53f6d008a58334c7940faea0e9cb8",
-    "https://Rouabd.github.io/CV/index.html": "c86025570690d7fb0f4d98f478a396c433343e4f"
+    "https://Rouabd.github.io/CV/index.html": "5878c150c4f73e1f9e9e913e0c147f4e4ff5dc07"
   }
 }

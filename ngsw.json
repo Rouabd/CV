@@ -9,9 +9,9 @@
       "urls": [
         "https://Rouabd.github.io/CV/index.html",
         "https://Rouabd.github.io/CV/0.ab728350f76b72051c4e.chunk.js",
-        "https://Rouabd.github.io/CV/inline.55f9c8ba358754ef3742.bundle.js",
+        "https://Rouabd.github.io/CV/inline.1a614f0d670e8748299f.bundle.js",
         "https://Rouabd.github.io/CV/main.023a5f5e4ca120fb673e.bundle.css",
-        "https://Rouabd.github.io/CV/main.a26092be349c28fa08a5.bundle.js",
+        "https://Rouabd.github.io/CV/main.293f189b36a6753b1bfd.bundle.js",
         "https://Rouabd.github.io/CV/polyfills.7ae390d4b3b21040596e.bundle.js",
         "https://Rouabd.github.io/CV/scripts.346cedf26b53bf84a37e.bundle.js",
         "https://Rouabd.github.io/CV/styles.12dc91a592346253b608.bundle.css"
@@ -24,7 +24,13 @@
       "updateMode": "prefetch",
       "urls": [
         "https://Rouabd.github.io/CV/assets/majid-min-min.jpg",
-        "https://Rouabd.github.io/CV/assets/majid.jpg"
+        "https://Rouabd.github.io/CV/assets/majid.jpg",
+        "https://Rouabd.github.io/CV/assets/majid_144x144.jpg",
+        "https://Rouabd.github.io/CV/assets/majid_192x192.jpg",
+        "https://Rouabd.github.io/CV/assets/majid_256x256.jpg",
+        "https://Rouabd.github.io/CV/assets/majid_384x384.jpg",
+        "https://Rouabd.github.io/CV/assets/majid_512x512.jpg",
+        "https://Rouabd.github.io/CV/assets/mycv.png"
       ],
       "patterns": [
         "https:\\/\\/fonts\\.googleapis\\.com\\/icon\\?family=Material\\+Icons"
@@ -47,13 +53,19 @@
   "hashTable": {
     "https://Rouabd.github.io/CV/0.ab728350f76b72051c4e.chunk.js": "0dc8f465bdb07067985db525e882abf8bddbccbc",
     "https://Rouabd.github.io/CV/assets/majid-min-min.jpg": "46101384b4d2f3e51726a5683f65574e57e0c27a",
-    "https://Rouabd.github.io/CV/inline.55f9c8ba358754ef3742.bundle.js": "e5627efd5d8e5f0033e03c95c87796429f735d53",
+    "https://Rouabd.github.io/CV/inline.1a614f0d670e8748299f.bundle.js": "60d53d77073fae980c8f168c8ed3dbb60728c2f1",
     "https://Rouabd.github.io/CV/assets/majid.jpg": "5ddd55bf4795bc39529a7545de22077b9d650e42",
     "https://Rouabd.github.io/CV/main.023a5f5e4ca120fb673e.bundle.css": "6e22c3b0b0fb968ac6fb73eddaf1534e24a11365",
-    "https://Rouabd.github.io/CV/main.a26092be349c28fa08a5.bundle.js": "7909b69af8f1f3ccad7b7f4a754dff9f1b9f1e70",
+    "https://Rouabd.github.io/CV/assets/majid_144x144.jpg": "5ddd55bf4795bc39529a7545de22077b9d650e42",
+    "https://Rouabd.github.io/CV/main.293f189b36a6753b1bfd.bundle.js": "98ae16e623431a0f9bbad78ff75dd9250c3a48ee",
+    "https://Rouabd.github.io/CV/assets/majid_192x192.jpg": "5ddd55bf4795bc39529a7545de22077b9d650e42",
     "https://Rouabd.github.io/CV/polyfills.7ae390d4b3b21040596e.bundle.js": "9c258fae89619a1f107ae351a28a5aa651fe4fea",
+    "https://Rouabd.github.io/CV/assets/majid_256x256.jpg": "5ddd55bf4795bc39529a7545de22077b9d650e42",
     "https://Rouabd.github.io/CV/scripts.346cedf26b53bf84a37e.bundle.js": "0cc6556acf751bea61733dd58e0b3df774bb5f0c",
+    "https://Rouabd.github.io/CV/assets/majid_384x384.jpg": "5ddd55bf4795bc39529a7545de22077b9d650e42",
     "https://Rouabd.github.io/CV/styles.12dc91a592346253b608.bundle.css": "2d4bfbcee1b53f6d008a58334c7940faea0e9cb8",
-    "https://Rouabd.github.io/CV/index.html": "a21f7065d028e78260b88c3d9f6440ed3b23098a"
+    "https://Rouabd.github.io/CV/assets/majid_512x512.jpg": "5ddd55bf4795bc39529a7545de22077b9d650e42",
+    "https://Rouabd.github.io/CV/index.html": "1003108971a777cb4e2969de97d458a79d1ab839",
+    "https://Rouabd.github.io/CV/assets/mycv.png": "aedc9505a8f05d4aa473983530ba2a356a550fe0"
   }
 }

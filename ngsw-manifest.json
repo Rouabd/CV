@@ -23,7 +23,16 @@
             },
             {
                 "url": "https://fonts.gstatic.com/s/materialicons/v22/2fcrYFNaTjcS6g4U3t-Y5UEw0lE80llgEseQY3FEmqw.woff2"
+            },
+            {
+                "url": "https://fonts.googleapis.com/css?family=Font+Name:400,300,700,800|Roboto+Slab:400,100,300,700"
+            },
+            {
+                "url":"https://fonts.googleapis.com/css?family=Tangerine:400,300,700,800|Roboto+Slab:400,100,300,700"
             }
+
+
+
         ]
     },
     "dynamic": {

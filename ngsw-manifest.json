@@ -4,8 +4,14 @@
         "routes": {
             "/": {
                 "match": "exact"
+            },
+            
+                "profile" :{
+                    "match":"prefix"
+                }
+
             }
-        }
+        
     },
     "static.ignore": [
         "^\/icons\/.*$"

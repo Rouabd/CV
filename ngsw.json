@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "index": "/",
+  "index": "/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -8,13 +8,12 @@
       "updateMode": "prefetch",
       "urls": [
         "/index.html",
-        "/0.29588bec8591a5bd0ee5.chunk.js",
-        "/inline.7c5b178f21f200862932.bundle.js",
-        "/main.bd4f56960fedccfb9058.bundle.css",
-        "/main.ec913a125fe9a89a8aeb.bundle.js",
-        "/polyfills.fd8a820635f6c86e1ab4.bundle.js",
-        "/scripts.5aeee44d814adbf6be18.bundle.js",
-        "/styles.309b188caf869c78e952.bundle.css"
+        "/0.ab728350f76b72051c4e.chunk.js",
+        "/inline.2766ed847568037b68a8.bundle.js",
+        "/main.f619a2237477e82f9e8e.bundle.js",
+        "/polyfills.7ae390d4b3b21040596e.bundle.js",
+        "/scripts.6fac32f839940ef5cdf3.bundle.js",
+        "/styles.2710c311dd438e15ad21.bundle.css"
       ],
       "patterns": []
     },
@@ -74,7 +73,8 @@
         "/assets/icons/mycv.png"
       ],
       "patterns": [
-        "https:\\/\\/fonts\\.googleapis\\.com\\/icon\\?family=Material\\+Icons"
+        "https:\\/\\/fonts\\.googleapis\\.com\\/.*",
+        "https:\\/\\/fonts\\.gstatic\\.com\\/.*"
       ]
     }
   ],
@@ -92,21 +92,20 @@
     }
   ],
   "hashTable": {
-    "/0.29588bec8591a5bd0ee5.chunk.js": "86ff6a0caa1ea8b308967b1bc9c88ebc43d7efd5",
+    "/0.ab728350f76b72051c4e.chunk.js": "0dc8f465bdb07067985db525e882abf8bddbccbc",
     "/assets/font-awesome/.npmignore": "dcf470ab3a358103bb896a539cc03caeda10fa8b",
-    "/inline.7c5b178f21f200862932.bundle.js": "19d2a0e4ae34b531215fff996f98d0f2fa4a410b",
+    "/inline.2766ed847568037b68a8.bundle.js": "5e5b2079759bf0d0f20cec3333e21928c8d84ad3",
     "/assets/font-awesome/HELP-US-OUT.txt": "4f7bf961f1bed448f6ba99aeb9219fabf930ba96",
-    "/main.bd4f56960fedccfb9058.bundle.css": "c9dff8fe2bbbb57fb6d3738f552ac5efee969bdc",
+    "/main.f619a2237477e82f9e8e.bundle.js": "e16cae5902f753cc8b503aedfe7ec44dbe2f038c",
     "/assets/font-awesome/package.json": "1351f829ab09bd618a732735213160210a2a0866",
-    "/main.ec913a125fe9a89a8aeb.bundle.js": "b74333c2d0688c629dc9926188b1fb40be82d9cb",
+    "/polyfills.7ae390d4b3b21040596e.bundle.js": "9c258fae89619a1f107ae351a28a5aa651fe4fea",
     "/assets/font-awesome/README.md": "3880a58a50ef7514317c4f47b5707d4fd0106c9c",
-    "/polyfills.fd8a820635f6c86e1ab4.bundle.js": "fd32733ffb3d7a01d32f3a6d5199e828f5ac104c",
+    "/scripts.6fac32f839940ef5cdf3.bundle.js": "c1f74695ae1e7de6ad68f5600f204cfd85bfea54",
     "/assets/font-awesome/css/font-awesome.css": "0140952c64e3f2b74ef64e050f2fe86eab6624c8",
-    "/scripts.5aeee44d814adbf6be18.bundle.js": "0fb135c244e186426870746303c927dcf624d5a0",
+    "/styles.2710c311dd438e15ad21.bundle.css": "bffced9241a621098b11a033141f555decaab23d",
     "/assets/font-awesome/css/font-awesome.css.map": "0189d278706509412bac4745f96c83984e1d59f4",
-    "/styles.309b188caf869c78e952.bundle.css": "c77cfa60cfdb4306e5eb0f3d414582f96c7432c7",
+    "/index.html": "9be5603363cbc7fa40190794aaa2c2fef4c49608",
     "/assets/font-awesome/css/font-awesome.min.css": "512c7d79033e3028a9be61b540cf1a6870c896f8",
-    "/index.html": "71f5e1fad684a7874e38ea2f9163bdab2eea1983",
     "/assets/font-awesome/fonts/fontawesome-webfont.eot": "d980c2ce873dc43af460d4d572d441304499f400",
     "/assets/font-awesome/fonts/fontawesome-webfont.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
     "/assets/font-awesome/fonts/fontawesome-webfont.ttf": "13b1eab65a983c7a73bc7997c479d66943f7c6cb",

@@ -30,8 +30,8 @@
         }
     ],
     "orientation":"any",
-       "scope":"https://Rouabd.github.io/CV/",
-     "start_url": "https://Rouabd.github.io/CV/",
+       "scope":"",
+     "start_url": "/",
     "display": "standalone",
     "theme_color": "#000000",
     "background_color": "#ffffff"

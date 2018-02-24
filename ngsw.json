@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "index": "/",
+  "index": "/index.html",
   "assetGroups": [
     {
       "name": "app",

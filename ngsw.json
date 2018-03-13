@@ -8,9 +8,9 @@
       "updateMode": "prefetch",
       "urls": [
         "https://Rouabd.github.io/CV/index.html",
-        "https://Rouabd.github.io/CV/0.47c60d2e0ad761ef85d8.chunk.js",
-        "https://Rouabd.github.io/CV/inline.ba9c178dda8dfa584e28.bundle.js",
-        "https://Rouabd.github.io/CV/main.f7772a467ef352aecbf2.bundle.js",
+        "https://Rouabd.github.io/CV/0.adf131a9c5ead37c5581.chunk.js",
+        "https://Rouabd.github.io/CV/inline.d8395d8f80133b6babcf.bundle.js",
+        "https://Rouabd.github.io/CV/main.d8d7c0810703447b5466.bundle.js",
         "https://Rouabd.github.io/CV/polyfills.7ae390d4b3b21040596e.bundle.js",
         "https://Rouabd.github.io/CV/scripts.6fac32f839940ef5cdf3.bundle.js",
         "https://Rouabd.github.io/CV/styles.6cf9accd01d2683f7e8d.bundle.css"
@@ -93,11 +93,11 @@
     }
   ],
   "hashTable": {
-    "https://Rouabd.github.io/CV/0.47c60d2e0ad761ef85d8.chunk.js": "3d1603b05ed059417c8563abcc62ead8448fea19",
+    "https://Rouabd.github.io/CV/0.adf131a9c5ead37c5581.chunk.js": "7f4d3ec71dd990845d118549bae7a370eb0feeff",
     "https://Rouabd.github.io/CV/assets/font-awesome/.npmignore": "dcf470ab3a358103bb896a539cc03caeda10fa8b",
-    "https://Rouabd.github.io/CV/inline.ba9c178dda8dfa584e28.bundle.js": "5a52d976bdc90883aa4997e356724e5b9c0d745d",
+    "https://Rouabd.github.io/CV/inline.d8395d8f80133b6babcf.bundle.js": "96a3852d06837bed0cd456a5c7a34acc64687c4e",
     "https://Rouabd.github.io/CV/assets/font-awesome/HELP-US-OUT.txt": "4f7bf961f1bed448f6ba99aeb9219fabf930ba96",
-    "https://Rouabd.github.io/CV/main.f7772a467ef352aecbf2.bundle.js": "454d1286a87f19c92a964c5b5a5c177363e9d7cd",
+    "https://Rouabd.github.io/CV/main.d8d7c0810703447b5466.bundle.js": "826f07db58cc709efaae57ffe937477ee36d82fd",
     "https://Rouabd.github.io/CV/assets/font-awesome/package.json": "1351f829ab09bd618a732735213160210a2a0866",
     "https://Rouabd.github.io/CV/polyfills.7ae390d4b3b21040596e.bundle.js": "9c258fae89619a1f107ae351a28a5aa651fe4fea",
     "https://Rouabd.github.io/CV/assets/font-awesome/README.md": "3880a58a50ef7514317c4f47b5707d4fd0106c9c",
@@ -105,7 +105,7 @@
     "https://Rouabd.github.io/CV/assets/font-awesome/css/font-awesome.css": "0140952c64e3f2b74ef64e050f2fe86eab6624c8",
     "https://Rouabd.github.io/CV/styles.6cf9accd01d2683f7e8d.bundle.css": "c4c079c737e6db3d335a81e84ec0dbc8c8b7923c",
     "https://Rouabd.github.io/CV/assets/font-awesome/css/font-awesome.css.map": "0189d278706509412bac4745f96c83984e1d59f4",
-    "https://Rouabd.github.io/CV/index.html": "14129868c87bcac325b8d1bf68492d276caa1592",
+    "https://Rouabd.github.io/CV/index.html": "412f805be7b7be3e1991d35367ae6b65cd2b7cda",
     "https://Rouabd.github.io/CV/assets/font-awesome/css/font-awesome.min.css": "512c7d79033e3028a9be61b540cf1a6870c896f8",
     "https://Rouabd.github.io/CV/assets/font-awesome/fonts/fontawesome-webfont.eot": "d980c2ce873dc43af460d4d572d441304499f400",
     "https://Rouabd.github.io/CV/assets/font-awesome/fonts/fontawesome-webfont.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",

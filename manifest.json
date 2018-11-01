@@ -30,8 +30,8 @@
         }
     ],
     "orientation":"any",
-       "scope":"https://Rouabd.github.io/experiences/",
-     "start_url": "https://Rouabd.github.io/experiences/",
+       "scope":"https://mycv.rouissam.ca/",
+     "start_url": "https://mycv.rouissam.ca/",
     "display": "standalone",
     "theme_color": "#000000",
     "background_color": "#ffffff"

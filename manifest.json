@@ -1,6 +1,6 @@
 {
     "short_name": "My Cv",
-    "name": "Rouissam Abdelmajid CV----Angular 5",
+    "name": "Rouissam Abdelmajid 2018 CV----Angular 5",
     "icons": [
       {
         "src": "assets/icons/majid_144x144.jpg",
@@ -30,8 +30,8 @@
         }
     ],
     "orientation":"any",
-       "scope":"https://mycv.rouissam.ca/",
-     "start_url": "https://mycv.rouissam.ca/",
+       "scope":"https://Rouabd.github.io/experiences/",
+     "start_url": "https://Rouabd.github.io/experiences/",
     "display": "standalone",
     "theme_color": "#000000",
     "background_color": "#ffffff"
